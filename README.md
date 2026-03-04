@@ -1,19 +1,4 @@
 # Trainee – Potiguar Rocket Design  
-## Introdução à Programação (C++)
+## Introdução à Programação e Embarcados (C++)
 
-Este repositório reúne as atividades desenvolvidas durante o processo de Trainee da **Potiguar Rocket Design**, na etapa de **Introdução à Programação**.
-
-Os exercícios abordam conceitos fundamentais de programação em C++, estruturas de dados, análise de algoritmos, simulação computacional e modelagem de problemas inspirados em contextos aeroespaciais e de engenharia.
-
----
-
-## Objetivos do Módulo
-
-- Desenvolver raciocínio lógico e algorítmico;
-- Aplicar estruturas de dados na resolução de problemas;
-- Trabalhar com leitura e processamento de dados;
-- Implementar simulações numéricas;
-- Avaliar eficiência computacional;
-- Escrever código estruturado e bem documentado.
-
----
+Este repositório reúne as atividades desenvolvidas durante o processo de Trainee da **Potiguar Rocket Design**, na etapa de **Introdução à Programação** e **Introdução à Embarcados**.
